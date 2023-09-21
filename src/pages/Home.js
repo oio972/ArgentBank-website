@@ -53,7 +53,7 @@ const Home = () => {
                 </p>
             </div>
         </section>
-        </main >
+        </main>
     )
 }
 export default Home
